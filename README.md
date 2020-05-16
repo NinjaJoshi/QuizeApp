@@ -1,6 +1,6 @@
 # quize
 
-## Project setup -- test
+## Project setup -- test 2
 ```
 npm install
 ```
